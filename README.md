@@ -22,6 +22,14 @@ We’ve come this far without discussing the adding of todos. Let’s do that no
 ## Deleting todo items
 Checking off and deleting todo list items are distinct actions. Because sometimes you want to see which items you’ve done, and sometimes you add todo items to your list that you didn’t mean to, or which become non-applicable.
 
+#### HTML File:- An HTML file contains Hypertext Markup Language (HTML) that formats the structure of a webpage. It is stored in a standard text format and contains tags that define the page layout and content of the webpage, including the text, tables, images, and hyperlinks displayed on the webpage. HTML files are widely used online and displayed in web browsers.
+
+#### CSS File:-CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes.
+
+#### JS File:-It separates HTML and code. It makes HTML and JavaScript easier to read and maintain. Cached JavaScript files can speed up page loads.
+
+
+
 ## Output of the todo list code
 
 ### Main Output:-
