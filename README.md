@@ -23,7 +23,15 @@ We’ve come this far without discussing the adding of todos. Let’s do that no
 Checking off and deleting todo list items are distinct actions. Because sometimes you want to see which items you’ve done, and sometimes you add todo items to your list that you didn’t mean to, or which become non-applicable.
 
 ## Output of the todo list code
+
+### Main Output:-
 ![1](https://user-images.githubusercontent.com/100788944/157294378-08de2253-09c1-45dc-87fd-16423ed2a4a9.png)
+
+### Adding Element:-
 ![2](https://user-images.githubusercontent.com/100788944/157294385-15258783-bd58-4831-879f-b842d9e972f9.png)
+
+### Deleting an Element:-
 ![3](https://user-images.githubusercontent.com/100788944/157294396-a029b3e1-5b75-41b3-ba4d-b4e545ad603c.png)
+
+### After Deleting an Element:-
 ![4](https://user-images.githubusercontent.com/100788944/157294411-f88746ba-b037-4a33-97d9-cee504f30a94.png)
