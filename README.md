@@ -35,13 +35,13 @@ Checking off and deleting todo list items are distinct actions. Because sometime
 ## Output of the todo list code
 
 ### Main Output:-
-![1](https://user-images.githubusercontent.com/100788944/157294378-08de2253-09c1-45dc-87fd-16423ed2a4a9.png)
+![Uploading 1.png…]()
 
 ### Adding Element:-
-![2](https://user-images.githubusercontent.com/100788944/157294385-15258783-bd58-4831-879f-b842d9e972f9.png)
+![Uploading 2.png…]()
 
 ### Deleting an Element:-
-![3](https://user-images.githubusercontent.com/100788944/157294396-a029b3e1-5b75-41b3-ba4d-b4e545ad603c.png)
+![Uploading 3.png…]()
 
 ### After Deleting an Element:-
-![4](https://user-images.githubusercontent.com/100788944/157294411-f88746ba-b037-4a33-97d9-cee504f30a94.png)
+![Uploading 4.png…]()
